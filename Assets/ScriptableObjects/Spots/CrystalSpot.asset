@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 934463307e30a9b4d9893c35921e7a98, type: 3}
+  m_Name: CrystalSpot
+  m_EditorClassIdentifier: 
+  intakeDelay: 0.2
+  resourceDropSpread: 5
+  recipe: {fileID: 11400000, guid: c3008c9b2808ab74dadab45fb28d3d3c, type: 2}
